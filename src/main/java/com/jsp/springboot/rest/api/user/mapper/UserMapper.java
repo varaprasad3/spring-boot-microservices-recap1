@@ -1,5 +1,6 @@
-package com.jsp.springboot.rest.api.user.dto;
+package com.jsp.springboot.rest.api.user.mapper;
 
+import com.jsp.springboot.rest.api.user.dto.UserDto;
 import com.jsp.springboot.rest.api.user.entity.User;
 
 public class UserMapper {
